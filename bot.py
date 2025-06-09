@@ -104,6 +104,3 @@ if __name__ == '__main__':
 
 # File: requirements.txt
 python-telegram-bot[webhooks]==20.4
-
-# File: Procfile
-web: python bot.py
